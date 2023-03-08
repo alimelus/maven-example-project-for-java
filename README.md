@@ -45,3 +45,4 @@ In order to execute build my example you have two way:
 2. **Execute** the following command (replace '/' with '\' if you are on windows environment): java -jar ./target/maven-example-project-for-java.jar
 
 ### **_Happy coding_ ;)**
+------------------------
