@@ -1,7 +1,7 @@
 pipeline {
    agent {
     node {
-        label 'java_node'
+        label 'master'
     }
    }
      tools { 
